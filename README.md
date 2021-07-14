@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](www.aniketh.ml)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.aniketh.ml)**
 
 - 📫 How to reach me **anikethkumar08@gmail.com**
 

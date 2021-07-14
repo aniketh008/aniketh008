@@ -21,7 +21,8 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <img src="https://img.icons8.com/ios-glyphs/30/26e07f/analytics.png"/>
-    <a href="https://icons8.com/icon/0HAGNdamoJug/learning">Learning icon by Icons8</a>
+    <img src="https://img.icons8.com/bubbles/50/26e07f/learning.png"/>
+    <img src="https://img.icons8.com/color/48/26e07f/c-programming.png"/>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://icons8.com/icon/17842/linux">Linux icon by Icons8</a>

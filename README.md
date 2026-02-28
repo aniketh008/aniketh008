@@ -29,6 +29,36 @@
 <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<p align="left">
+
+<!-- Azure -->
+<img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" title="Microsoft Azure"/>
+
+<!-- Data Factory / Pipelines -->
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-data-processing-big-data-flat-flat-juicy-fish.png" title="ETL / Data Pipelines"/>
+
+<!-- Databricks / Spark -->
+<img src="https://img.icons8.com/color/48/000000/apache-spark.png" title="Apache Spark / Databricks"/>
+
+<!-- Python -->
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+
+<!-- SQL -->
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" title="SQL"/>
+
+<!-- Data Lake / Storage -->
+<img src="https://img.icons8.com/color/48/000000/database.png" title="Data Lake / Storage"/>
+
+<!-- Power BI -->
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/>
+
+<!-- Git -->
+<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+
+<!-- Linux -->
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux"/>
+
+</p>
 
 </p>
 

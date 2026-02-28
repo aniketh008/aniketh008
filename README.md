@@ -63,43 +63,36 @@
 
 ---
 
-<!-- Cloud & Data Engineering Certifications -->
+<!-- AI & ML Practitioner Certifications -->
 <h2 align="center">☁️ Cloud & Data Engineering Certifications</h2>
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
     <tr>
-      <!-- Azure Data Engineer -->
-      <td align="center" width="50%">
-        <a href="YOUR_DP203_CREDLY_LINK">
+      <!-- Icon Row -->
+      <td align="center" width="16.66%">
+        <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">
           <img src="./badges/azure-data-engineer.png" width="120" alt="Azure Data Engineer Associate"/>
         </a>
       </td>
-
-      <!-- Azure AI Fundamentals -->
-      <td align="center" width="50%">
-        <a href="YOUR_AI900_LINK">
+      <td align="center" width="16.66%">
+        <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">
           <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals (AI-900)"/>
         </a>
       </td>
-    </tr>
-
-    <tr>
-      <td align="center" width="50%">
-        🗓️ 2025<br/>
-        🔗 <a href="YOUR_DP203_CREDLY_LINK">Azure Data Engineer Associate (DP-203)</a><br/>
-        <em>Designing and implementing scalable Azure data solutions.</em>
+      <td align="center" width="16.66%">
+        <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
+          <img src="./badges/celonis.jpeg" width="120" alt="Celonis"/>
+        </a>
       </td>
-
-      <td align="center" width="50%">
-        🗓️ 2025<br/>
-        🔗 <a href="YOUR_AI900_LINK">Azure AI Fundamentals (AI-900)</a><br/>
-        <em>Core AI workloads, services, and responsible AI principles.</em>
+        <td align="center" width="16.66%">
+        <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
+          <img src="./badges/oracle.jpeg" width="120" alt="Oracle Cloud Infrastructure "/>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
 
 <h3 align="center">Git Stats</h3>
 

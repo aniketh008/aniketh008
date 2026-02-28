@@ -63,14 +63,10 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketh008&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh008&layout=compact&langs_count=8&theme=react&hide_border=true" height="180em"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketh008&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 ---

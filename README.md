@@ -133,23 +133,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh008&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&cache_seconds=1800" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketh008&theme=highcontrast" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aniketh008&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=aniketh008&show_icons=true&theme=highcontrast&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketh008&theme=highcontrast" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh008&layout=compact&theme=highcontrast&hide_border=true" />
 
+</div>
 
 ### GitHub Contribution Chart
 <a href="https://github.com/aniketh008">

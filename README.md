@@ -128,25 +128,28 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketh008&custom_title=Aniketh's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
+
+  
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh008&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh008&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&cache_seconds=1800" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketh008&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketh008&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketh008&theme=highcontrast" />
     </td>
   </tr>
 </table>
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aniketh008&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=1800" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketh008&theme=highcontrast" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniketh008&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Aniketh's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketh008&theme=highcontrast&hide_border=true">
 
 ### GitHub Contribution Chart
 <a href="https://github.com/aniketh008">

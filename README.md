@@ -142,42 +142,6 @@
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- Icon Row -->
-      <td align="center">
-        <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">
-          <img src="./badges/cisco-introduction-to-modern-ai.png" width="120" alt="Cisco: Introduction to Modern AI"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">
-          <img src="./badges/cisco-ai-at-work-analyze-customer-reviews.png" width="120" alt="Cisco: AI at Work – Analyze Customer Reviews"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">
-          <img src="./badges/ibm-getting-started-with-artificial-intelligence.png" width="120" alt="IBM: Getting Started with Artificial Intelligence"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">
-          <img src="./badges/ibm-ai-literacy.png" width="120" alt="IBM: AI Literacy"/>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI4dTgwbHQzcXRnMzlhMmZ6M2NvdTEzdTk1dWNrMGVibTlsdWp2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/um2kBnfo55iW4ZH1Fa/giphy.gif"
-             width="120" alt="Coming Soon – funny tech GIF"/>
-      </td>
-    </tr>
-    <tr>
-  </table>
-</div>
-
-
-<br>
-
 <h3 align="center">Git Stats</h3>
 
 <div align="center">

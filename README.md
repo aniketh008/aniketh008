@@ -172,73 +172,8 @@
       </td>
     </tr>
     <tr>
-      <!-- Text Row (no <br/>) -->
-      <td align="center">
-         🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/0259a81d-5ffc-41ec-ab25-c7ec34a0b4df/public_url">Introduction to Modern AI</a></div>
-        <div><em>Cisco micro-credential on core AI concepts &amp; modern use cases.</em></div>
-      </td>
-      <td align="center">
-         🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/ccc9ab9c-cae1-4e1f-9cc5-29cb8b08cd94/public_url">AI at Work: Analyze Customer Reviews</a></div>
-        <div><em>Cisco skill badge applying AI to review/sentiment analysis.</em></div>
-      </td>
-      <td align="center">
-        🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/37724616-5ec7-4550-b3b4-77765d1e138a/public_url">Getting Started with Artificial Intelligence</a></div>
-        <div><em>IBM intro to AI foundations, terminology, and workflows.</em></div>
-      </td>
-      <td align="center">
-        🗓️ September 2025 <br/>
-        <div>🔗 <a href="https://www.credly.com/badges/7d1fd871-aaa8-42a5-93da-276c6f1017fc/public_url">AI Literacy</a></div>
-        <div><em>IBM fundamentals of AI concepts, impacts, and ethics.</em></div>
-      </td>
-      <td align="center">
-        <div>🗓️ Coming Soon</div>
-        <div>🔗 —</div>
-        <div><em>Nextcredential dropping soon — stay tuned! 😄</em></div>
-      </td>
-    </tr>
   </table>
 </div>
-
-<details>
-  <summary><strong>🎯 Why Multi-Cloud Solutions Matter + 📈 Upcoming Certification Roadmap (Click to Expand)</strong></summary>
-
-<br>
-
-## 🎯 Why Multi-Cloud Solutions Matter
-
-In today’s rapidly evolving technology landscape, organizations require **cloud strategies that are flexible, scalable, and resilient**.  
-My certifications across **AWS**, **Azure**, **Google Cloud**, and **CompTIA** enable me to design and deliver solutions that are:
-
-✅ **Vendor-Agnostic** – Minimize vendor lock-in and maximize flexibility  
-✅ **Performance-Optimized** – Leverage best-in-class services across AWS, Azure, and GCP  
-✅ **Highly Resilient** – Improve business continuity and disaster recovery capabilities  
-✅ **AI/ML & Data-Centric** – Deploy, manage, and scale AI/ML workloads and data solutions effectively  
-✅ **Governance-Driven** – Implement governance, security, and compliance best practices using a vendor-neutral cloud strategy  
-
-> _“Mastering the Cloud… Across All Platforms.”_ ☁️🌎
-
-
-## 📈 Upcoming Certification Roadmap
-
-To further strengthen my cloud expertise and advance towards **architect-level and specialist roles**, I’m actively preparing for the following certifications:
-
-| **Certification Goal** | **Focus Area** |
-|:---|:---|
-| **AWS Solutions Architect – Associate** | Cloud architecture design, deployment strategies, and fault tolerance |
-| **Microsoft Azure Administrator – Associate** | Resource management, security, networking, and identity services in Azure |
-| **Google Associate Cloud Engineer** | GCP workload deployment, monitoring, and management |
-| **HashiCorp Terraform Associate / KCNA** | Infrastructure as Code (IaC), automation, and Kubernetes cluster management |
-| **Cloud Security & DevOps Specializations** | Automation, CI/CD pipelines, container orchestration, and security governance |
-
----
-
-✅ **Objective:**  
-**To become a Multi-Cloud Architect and DevOps/AI Cloud Specialist**, delivering solutions that drive business value while ensuring scalability, reliability, and security.
-
-</details>
 
 
 <br>

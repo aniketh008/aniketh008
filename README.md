@@ -63,78 +63,37 @@
 
 ---
 
-<!-- AI & ML Practitioner Certifications -->
-<h2 align="center">🤖 AI &amp; ML Practitioner Certifications</h2>
+<!-- Cloud & Data Engineering Certifications -->
+<h2 align="center">☁️ Cloud & Data Engineering Certifications</h2>
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
     <tr>
-      <!-- Icon Row -->
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">
-          <img src="./badges/aws-certified-ai-practitioner.png" width="120" alt="AWS Certified AI Practitioner"/>
+      <!-- Azure Data Engineer -->
+      <td align="center" width="50%">
+        <a href="YOUR_DP203_CREDLY_LINK">
+          <img src="./badges/azure-data-engineer.png" width="120" alt="Azure Data Engineer Associate"/>
         </a>
       </td>
-      <td align="center" width="16.66%">
-        <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">
+
+      <!-- Azure AI Fundamentals -->
+      <td align="center" width="50%">
+        <a href="YOUR_AI900_LINK">
           <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals (AI-900)"/>
         </a>
       </td>
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
-          <img src="./badges/generative-ai-leader-certification (1).png" width="120" alt="Google Generative AI Leader"/>
-        </a>
-      </td>
-      <td align="center" width="16.66%">
-        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8ECBEDDBF41A432652D2FE730242B5D2A27689B00914167AD35C9A59EB45AA2F">
-          <img src="./badges/Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate.png" width="120" alt="Oracle Cloud Infrastructure AI Foundations"/>
-        </a>
-      </td>
-      <!-- NEW: IBM AI Fundamentals -->
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/dd9fd013-1052-4364-bf4a-7f237cafb035/public_url">
-          <img src="./badges/ibm-artificial-intelligence-fundamentals.png" width="120" alt="IBM Artificial Intelligence Fundamentals"/>
-        </a>
-      </td>
-      <!-- NEW: Cisco – AI Fundamentals with IBM SkillsBuild -->
-      <td align="center" width="16.66%">
-        <a href="https://www.credly.com/badges/bf03923b-1515-4e16-8fe6-be3c88996c5b/public_url">
-          <img src="./badges/ai-fundamentals-with-ibm-skillsbuild.png" width="120" alt="AI Fundamentals with IBM SkillsBuild (Issued by Cisco)"/>
-        </a>
-      </td>
     </tr>
+
     <tr>
-      <!-- Text Row -->
-      <td align="center" width="16.66%">
-        🗓️ July 2025<br/>
-        🔗 <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">AWS Certified AI Practitioner</a><br/>
-        <em>Core AWS AI/ML services & practitioner concepts.</em>
+      <td align="center" width="50%">
+        🗓️ 2025<br/>
+        🔗 <a href="YOUR_DP203_CREDLY_LINK">Azure Data Engineer Associate (DP-203)</a><br/>
+        <em>Designing and implementing scalable Azure data solutions.</em>
       </td>
-      <td align="center" width="16.66%">
-        🗓️ July 2025<br/>
-        🔗 <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">Azure AI Fundamentals (AI-900)</a><br/>
-        <em>Azure AI workloads, services, and responsible AI.</em>
-      </td>
-      <td align="center" width="16.66%">
-        🗓️ July 2025<br/>
-        🔗 <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">Google Generative AI Leader</a><br/>
-        <em>Generative AI leadership & Google Cloud AI solutions.</em>
-      </td>
-      <td align="center" width="16.66%">
-        🗓️ August 2025<br/>
-        🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8ECBEDDBF41A432652D2FE730242B5D2A27689B00914167AD35C9A59EB45AA2F">Oracle AI Foundations</a><br/>
-        <em>Validates OCI AI services, ML, and responsible AI practices.</em>
-      </td>
-      <!-- NEW: IBM AI Fundamentals -->
-      <td align="center" width="16.66%">
-         🗓️ September 2025 <br/>
-        🔗 <a href="https://www.credly.com/badges/dd9fd013-1052-4364-bf4a-7f237cafb035/public_url">IBM Artificial Intelligence Fundamentals</a><br/>
-        <em>Intro to AI concepts, ML, neural nets, and AI ethics.</em>
-      </td>
-      <!-- NEW: Cisco – AI Fundamentals with IBM SkillsBuild -->
-      <td align="center" width="16.66%">
-         🗓️ September 2025 <br/>
-        🔗 <a href="https://www.credly.com/badges/bf03923b-1515-4e16-8fe6-be3c88996c5b/public_url">AI Fundamentals with IBM SkillsBuild (Cisco)</a><br/>
-        <em>Foundations of AI, data, and ML; Cisco-issued via IBM SkillsBuild.</em>
+
+      <td align="center" width="50%">
+        🗓️ 2025<br/>
+        🔗 <a href="YOUR_AI900_LINK">Azure AI Fundamentals (AI-900)</a><br/>
+        <em>Core AI workloads, services, and responsible AI principles.</em>
       </td>
     </tr>
   </table>
@@ -146,39 +105,35 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aniketh008&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketh008&custom_title=Aniketh's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh008&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketh008&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketh008&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=aniketh008&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Aniketh's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
-
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketh008&theme=highcontrast&hide_border=true">
 
 ### GitHub Contribution Chart
 <a href="https://github.com/aniketh008">
     <img src="https://ghchart.rshah.org/aniketh008" alt="Aniketh's GitHub Contribution Chart">
 </a>
-
-
 
 <br>
 

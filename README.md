@@ -81,15 +81,40 @@
       </td>
       <td align="center" width="16.66%">
         <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
-          <img src="./badges/celonis.jpeg" width="120" alt="Celonis"/>
+          <img src="./badges/celonis.png" width="120" alt="Celonis"/>
         </a>
       </td>
         <td align="center" width="16.66%">
         <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">
-          <img src="./badges/oracle.jpeg" width="120" alt="Oracle Cloud Infrastructure "/>
+          <img src="./badges/oracle.jfif" width="120" alt="Oracle Cloud Infrastructure "/>
         </a>
       </td>
     </tr>
+<tr>
+      <!-- Text Row -->
+      <td align="center" width="16.66%">
+        🗓️ July 2025<br/>
+        🔗 <a href="https://www.credly.com/badges/9ed2757a-38a7-44b5-b274-84d2e0343896/public_url">Azure Data Engineer Associate</a><br/>
+        <em>Designing and implementing scalable Azure data solutions..</em>
+      </td>
+      <td align="center" width="16.66%">
+        🗓️ July 2025<br/>
+        🔗 <a href="https://learn.microsoft.com/en-us/users/kenangain/credentials/cda377724f75b0db?ref=https%3A%2F%2Fwww.credly.com%2F">Azure AI Fundamentals (AI-900)</a><br/>
+        <em>Azure AI workloads, services, and responsible AI.</em>
+      </td>
+      <td align="center" width="16.66%">
+        🗓️ July 2025<br/>
+        🔗 <a href="https://www.credly.com/badges/9a6ef02b-e4b6-4889-ad3e-499223bae832/public_url">Celonis</a><br/>
+        <em>Generative AI leadership & Google Cloud AI solutions.</em>
+      </td>
+      <td align="center" width="16.66%">
+        🗓️ August 2025<br/>
+        🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8ECBEDDBF41A432652D2FE730242B5D2A27689B00914167AD35C9A59EB45AA2F">Oracle AI Cloud Infrastructure</a><br/>
+        <em>Validates OCI AI services, ML, and responsible AI practices.</em>
+      </td>
+      </td>
+    </tr>
+<br>
   </table>
 </div>
 
